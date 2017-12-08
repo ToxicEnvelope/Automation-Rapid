@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25692" started-at="2017-12-08T00:43:17Z" finished-at="2017-12-08T00:43:43Z">
+  <suite name="Default suite" duration-ms="31181" started-at="2017-12-08T08:04:12Z" finished-at="2017-12-08T08:04:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25692" started-at="2017-12-08T00:43:17Z" finished-at="2017-12-08T00:43:43Z">
+    <test name="Default test" duration-ms="31181" started-at="2017-12-08T08:04:12Z" finished-at="2017-12-08T08:04:43Z">
       <class name="com.tutorial.rapid.Nice1.tests.SimpleTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="setUp" is-config="true" duration-ms="3595" started-at="2017-12-08T02:43:17Z" finished-at="2017-12-08T02:43:21Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="setUp" is-config="true" duration-ms="4048" started-at="2017-12-08T10:04:12Z" finished-at="2017-12-08T10:04:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="_POSITIVE_TEST_()[pri:0, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="_POSITIVE_TEST_" duration-ms="11056" started-at="2017-12-08T02:43:21Z" finished-at="2017-12-08T02:43:32Z">
+        <test-method status="PASS" signature="_POSITIVE_TEST_()[pri:0, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="_POSITIVE_TEST_" duration-ms="16045" started-at="2017-12-08T10:04:16Z" finished-at="2017-12-08T10:04:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- _POSITIVE_TEST_ -->
-        <test-method status="PASS" signature="_REFRESH_SEQUENCE_()[pri:1, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="_REFRESH_SEQUENCE_" duration-ms="5287" started-at="2017-12-08T02:43:32Z" finished-at="2017-12-08T02:43:37Z">
+        <test-method status="PASS" signature="_REFRESH_SEQUENCE_()[pri:1, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="_REFRESH_SEQUENCE_" duration-ms="5300" started-at="2017-12-08T10:04:32Z" finished-at="2017-12-08T10:04:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- _REFRESH_SEQUENCE_ -->
-        <test-method status="FAIL" signature="_NEGATIVE_TEST_()[pri:2, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="_NEGATIVE_TEST_" duration-ms="5515" started-at="2017-12-08T02:43:37Z" finished-at="2017-12-08T02:43:43Z">
+        <test-method status="FAIL" signature="_NEGATIVE_TEST_()[pri:2, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="_NEGATIVE_TEST_" duration-ms="5556" started-at="2017-12-08T10:04:38Z" finished-at="2017-12-08T10:04:43Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [Hey World!] but found [Hello World!]]]>
@@ -31,7 +31,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- _NEGATIVE_TEST_ -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="tearDown" is-config="true" duration-ms="200" started-at="2017-12-08T02:43:43Z" finished-at="2017-12-08T02:43:43Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorial.rapid.Nice1.tests.SimpleTest@46d56d67]" name="tearDown" is-config="true" duration-ms="181" started-at="2017-12-08T10:04:43Z" finished-at="2017-12-08T10:04:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
